@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/aryannikaj/leetcode_challenge/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryannikaj/leetcode_challenge/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryannikaj/leetcode_challenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1089-duplicate-zeros](https://github.com/aryannikaj/leetcode_challenge/tree/master/1089-duplicate-zeros) |
 | [1095-find-in-mountain-array](https://github.com/aryannikaj/leetcode_challenge/tree/master/1095-find-in-mountain-array) |
 ## Hash Table
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/aryannikaj/leetcode_challenge/tree/master/1095-find-in-mountain-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1089-duplicate-zeros](https://github.com/aryannikaj/leetcode_challenge/tree/master/1089-duplicate-zeros) |
 <!---LeetCode Topics End-->
